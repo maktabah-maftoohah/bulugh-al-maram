@@ -2,6 +2,10 @@
   "collection": "bulugh-al-maram",
   "title": "Maktabah Maftoohah — Bulugh al-Maram",
   "title_ar": "بلوغ المرام من أدلة الأحكام",
-  "seeded": true,
-  "items": []
+  "total_books": 16,
+  "total_hadiths": 1596,
+  "seeded_books": [
+    1
+  ],
+  "active_hadiths": 5
 }

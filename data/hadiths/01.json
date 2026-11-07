@@ -1,0 +1,188 @@
+[
+  {
+    "collection_id": "bulugh-al-maram",
+    "hadith_number": 1,
+    "in_book_number": 1,
+    "book_number": 1,
+    "book_title": {
+      "ar": "كتاب الطهارة",
+      "ms": "Kitab Bersuci (Taharah)",
+      "en": "Book of Purification"
+    },
+    "chapter_number": 1,
+    "chapter_title": {
+      "ar": "باب الْمِيَاهِ",
+      "ms": "Bab Air",
+      "en": "Chapter on Waters"
+    },
+    "arabic": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْبَحْرِ: «هُوَ الطَّهُورُ مَاؤُهُ، الْحِلُّ مَيْتَتُهُ».",
+    "sanad_text": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْبَحْرِ:",
+    "matn_text": "«هُوَ الطَّهُورُ مَاؤُهُ، الْحِلُّ مَيْتَتُهُ».",
+    "gradings": [
+      {
+        "scholar": "Al-Hafiz Ibn Hajar",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "أخرجه الأربعة وابن أبي شيبة واللفظ له، وصححه ابن خزيمة والترمذي"
+      }
+    ],
+    "translations": {
+      "ms": "Daripada Abu Hurairah r.a. katanya: Rasulullah ﷺ bersabda mengenai air laut: 'Laut itu menyucikan airnya dan halal bangkainya.'",
+      "en": "Narrated Abu Huraira: Allah's Messenger said regarding the sea: 'Its water is purifying and its dead (animals) are lawful to eat.'"
+    },
+    "tags": [
+      "air-laut",
+      "taharah",
+      "makanan-laut",
+      "hukum-bersuci"
+    ]
+  },
+  {
+    "collection_id": "bulugh-al-maram",
+    "hadith_number": 2,
+    "in_book_number": 2,
+    "book_number": 1,
+    "book_title": {
+      "ar": "كتاب الطهارة",
+      "ms": "Kitab Bersuci (Taharah)",
+      "en": "Book of Purification"
+    },
+    "chapter_number": 1,
+    "chapter_title": {
+      "ar": "باب الْمِيَاهِ",
+      "ms": "Bab Air",
+      "en": "Chapter on Waters"
+    },
+    "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّ الْمَاءَ طَهُورٌ لا يُنَجِّسُهُ شَيْءٌ».",
+    "sanad_text": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:",
+    "matn_text": "«إِنَّ الْمَاءَ طَهُورٌ لا يُنَجِّسُهُ شَيْءٌ».",
+    "gradings": [
+      {
+        "scholar": "Al-Hafiz Ibn Hajar",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "أخرجه الثلاثة وصححه أحمد"
+      }
+    ],
+    "translations": {
+      "ms": "Daripada Abu Sa'id al-Khudri r.a. katanya: Rasulullah ﷺ bersabda: 'Sesungguhnya air itu suci lagi menyucikan, tidak ada sesuatu pun yang dapat menajiskannya.'",
+      "en": "Narrated Abu Sa'id Al-Khudri: Allah's Messenger said: 'Water is pure and nothing can make it impure.'"
+    },
+    "tags": [
+      "sifat-air",
+      "kesucian-air",
+      "taharah"
+    ]
+  },
+  {
+    "collection_id": "bulugh-al-maram",
+    "hadith_number": 3,
+    "in_book_number": 3,
+    "book_number": 1,
+    "book_title": {
+      "ar": "كتاب الطهارة",
+      "ms": "Kitab Bersuci (Taharah)",
+      "en": "Book of Purification"
+    },
+    "chapter_number": 1,
+    "chapter_title": {
+      "ar": "باب الْمِيَاهِ",
+      "ms": "Bab Air",
+      "en": "Chapter on Waters"
+    },
+    "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِذَا كَانَ الْمَاءُ قُلَّتَيْنِ لَمْ يَحْمِلِ الْخَبَثَ». وَفِي لَفْظٍ: «لَمْ يَنْجُسْ».",
+    "sanad_text": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:",
+    "matn_text": "«إِذَا كَانَ الْمَاءُ قُلَّتَيْنِ لَمْ يَحْمِلِ الْخَبَثَ». وَفِي لَفْظٍ: «لَمْ يَنْجُسْ».",
+    "gradings": [
+      {
+        "scholar": "Al-Hafiz Ibn Hajar",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "أخرجه الأربعة وصححه ابن خزيمة وابن حبان"
+      }
+    ],
+    "translations": {
+      "ms": "Daripada Abdullah ibn 'Umar r.a. katanya: Rasulullah ﷺ bersabda: 'Apabila air telah mencapai kadar dua qullah, ia tidak mengandungi najis.' Dan dalam suatu riwayat: 'Ia tidak menjadi najis.'",
+      "en": "Narrated 'Abdullah bin 'Umar: Allah's Messenger said: 'When the water reaches the amount of two Qullahs (large jars), it does not carry impurity.' In another narration: 'It does not become impure.'"
+    },
+    "tags": [
+      "kadar-dua-qullah",
+      "hukum-air-banyak",
+      "fiqh-taharah"
+    ]
+  },
+  {
+    "collection_id": "bulugh-al-maram",
+    "hadith_number": 4,
+    "in_book_number": 4,
+    "book_number": 1,
+    "book_title": {
+      "ar": "كتاب الطهارة",
+      "ms": "Kitab Bersuci (Taharah)",
+      "en": "Book of Purification"
+    },
+    "chapter_number": 1,
+    "chapter_title": {
+      "ar": "باب الْمِيَاهِ",
+      "ms": "Bab Air",
+      "en": "Chapter on Waters"
+    },
+    "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «لا يَغْتَسِلْ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ وَهُوَ جُنُبٌ».",
+    "sanad_text": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:",
+    "matn_text": "«لا يَغْتَسِلْ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ وَهُوَ جُنُبٌ».",
+    "gradings": [
+      {
+        "scholar": "Al-Hafiz Ibn Hajar",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "أخرجه مسلم، وللبخاري: «لا يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ الَّذِي لا يَجْرِي ثُمَّ يَغْتَسِلُ فِيهِ»"
+      }
+    ],
+    "translations": {
+      "ms": "Daripada Abu Hurairah r.a. katanya: Rasulullah ﷺ bersabda: 'Janganlah seseorang daripada kamu mandi di dalam air yang tenang (tidak mengalir) sedang dia dalam keadaan berjunub.'",
+      "en": "Narrated Abu Huraira: Allah's Messenger said: 'None of you should take a bath in stagnant water when he is sexually defiled (in a state of Janaba).'"
+    },
+    "tags": [
+      "air-tenang",
+      "mandi-janabah",
+      "adab-kebersihan"
+    ]
+  },
+  {
+    "collection_id": "bulugh-al-maram",
+    "hadith_number": 5,
+    "in_book_number": 5,
+    "book_number": 1,
+    "book_title": {
+      "ar": "كتاب الطهارة",
+      "ms": "Kitab Bersuci (Taharah)",
+      "en": "Book of Purification"
+    },
+    "chapter_number": 2,
+    "chapter_title": {
+      "ar": "باب الآنِيَةِ",
+      "ms": "Bab Bekas dan Bejana",
+      "en": "Chapter on Utensils"
+    },
+    "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «طَهُورُ إِنَاءِ أَحَدِكُمْ إِذَا وَلَغَ فِيهِ الْكَلْبُ أَنْ يَغْسِلَهُ سَبْعَ مَرَّاتٍ، أُولاهُنَّ بِالتُّرَابِ».",
+    "sanad_text": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:",
+    "matn_text": "«طَهُورُ إِنَاءِ أَحَدِكُمْ إِذَا وَلَغَ فِيهِ الْكَلْبُ أَنْ يَغْسِلَهُ سَبْعَ مَرَّاتٍ، أُولاهُنَّ بِالتُّرَابِ».",
+    "gradings": [
+      {
+        "scholar": "Al-Hafiz Ibn Hajar",
+        "grade": "Sahih",
+        "grade_ar": "صحيح",
+        "notes": "أخرجه مسلم"
+      }
+    ],
+    "translations": {
+      "ms": "Daripada Abu Hurairah r.a. katanya: Rasulullah ﷺ bersabda: 'Menyucikan bekas seseorang daripada kamu apabila dijilat anjing adalah dengan membasuhnya sebanyak tujuh kali, yang pertamanya dengan tanah.'",
+      "en": "Narrated Abu Huraira: Allah's Messenger said: 'The cleansing of the utensil of one of you when a dog has licked it is to wash it seven times, the first with dust.'"
+    },
+    "tags": [
+      "jilatan-anjing",
+      "samak-najis-mughallazah",
+      "bekas-makanan"
+    ]
+  }
+]

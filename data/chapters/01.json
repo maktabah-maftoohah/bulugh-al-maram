@@ -1,0 +1,34 @@
+[
+  {
+    "chapter_number": 1,
+    "title_ar": "باب الْمِيَاهِ",
+    "title_ms": "Bab Air",
+    "title_en": "Chapter on Waters",
+    "hadith_start": 1,
+    "hadith_end": 14
+  },
+  {
+    "chapter_number": 2,
+    "title_ar": "باب الآنِيَةِ",
+    "title_ms": "Bab Bekas dan Bejana",
+    "title_en": "Chapter on Utensils",
+    "hadith_start": 15,
+    "hadith_end": 23
+  },
+  {
+    "chapter_number": 3,
+    "title_ar": "باب إِزَالَةِ النَّجَاسَةِ وَبَيَانِهَا",
+    "title_ms": "Bab Menghilangkan Najis",
+    "title_en": "Chapter on Cleansing Impurities",
+    "hadith_start": 24,
+    "hadith_end": 35
+  },
+  {
+    "chapter_number": 4,
+    "title_ar": "باب الْوُضُوءِ",
+    "title_ms": "Bab Wuduk",
+    "title_en": "Chapter on Ablution (Wudu')",
+    "hadith_start": 36,
+    "hadith_end": 64
+  }
+]

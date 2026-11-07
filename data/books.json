@@ -1,0 +1,146 @@
+[
+  {
+    "book_number": 1,
+    "title_ar": "كتاب الطهارة",
+    "title_ms": "Kitab Bersuci (Taharah)",
+    "title_en": "Book of Purification",
+    "hadith_start": 1,
+    "hadith_end": 144,
+    "hadith_count": 144
+  },
+  {
+    "book_number": 2,
+    "title_ar": "كتاب الصلاة",
+    "title_ms": "Kitab Solat",
+    "title_en": "Book of Prayer",
+    "hadith_start": 145,
+    "hadith_end": 533,
+    "hadith_count": 389
+  },
+  {
+    "book_number": 3,
+    "title_ar": "كتاب الجنائز",
+    "title_ms": "Kitab Jenazah",
+    "title_en": "Book of Funerals",
+    "hadith_start": 534,
+    "hadith_end": 605,
+    "hadith_count": 72
+  },
+  {
+    "book_number": 4,
+    "title_ar": "كتاب الزكاة",
+    "title_ms": "Kitab Zakat",
+    "title_en": "Book of Zakat",
+    "hadith_start": 606,
+    "hadith_end": 673,
+    "hadith_count": 68
+  },
+  {
+    "book_number": 5,
+    "title_ar": "كتاب الصيام",
+    "title_ms": "Kitab Puasa (Siyam)",
+    "title_en": "Book of Fasting",
+    "hadith_start": 674,
+    "hadith_end": 716,
+    "hadith_count": 43
+  },
+  {
+    "book_number": 6,
+    "title_ar": "كتاب الحج",
+    "title_ms": "Kitab Haji",
+    "title_en": "Book of Pilgrimage (Hajj)",
+    "hadith_start": 717,
+    "hadith_end": 794,
+    "hadith_count": 78
+  },
+  {
+    "book_number": 7,
+    "title_ar": "كتاب البيوع",
+    "title_ms": "Kitab Jual Beli (Muamalat)",
+    "title_en": "Book of Business Transactions",
+    "hadith_start": 795,
+    "hadith_end": 966,
+    "hadith_count": 172
+  },
+  {
+    "book_number": 8,
+    "title_ar": "كتاب النكاح",
+    "title_ms": "Kitab Nikah (Munakahat)",
+    "title_en": "Book of Marriage",
+    "hadith_start": 967,
+    "hadith_end": 1109,
+    "hadith_count": 143
+  },
+  {
+    "book_number": 9,
+    "title_ar": "كتاب الجنايات",
+    "title_ms": "Kitab Jenayah (Jinayat)",
+    "title_en": "Book of Crimes & Retaliation",
+    "hadith_start": 1110,
+    "hadith_end": 1160,
+    "hadith_count": 51
+  },
+  {
+    "book_number": 10,
+    "title_ar": "كتاب الحدود",
+    "title_ms": "Kitab Hukuman Hudud",
+    "title_en": "Book of Prescribed Punishments",
+    "hadith_start": 1161,
+    "hadith_end": 1228,
+    "hadith_count": 68
+  },
+  {
+    "book_number": 11,
+    "title_ar": "كتاب الجهاد",
+    "title_ms": "Kitab Jihad",
+    "title_en": "Book of Jihad",
+    "hadith_start": 1229,
+    "hadith_end": 1297,
+    "hadith_count": 69
+  },
+  {
+    "book_number": 12,
+    "title_ar": "كتاب الأطعمة",
+    "title_ms": "Kitab Makanan dan Sembelihan",
+    "title_en": "Book of Foods and Slaughtering",
+    "hadith_start": 1298,
+    "hadith_end": 1362,
+    "hadith_count": 65
+  },
+  {
+    "book_number": 13,
+    "title_ar": "كتاب الأيمان والنذور",
+    "title_ms": "Kitab Sumpah dan Nazar",
+    "title_en": "Book of Oaths and Vows",
+    "hadith_start": 1363,
+    "hadith_end": 1386,
+    "hadith_count": 24
+  },
+  {
+    "book_number": 14,
+    "title_ar": "كتاب القضاء",
+    "title_ms": "Kitab Kehakiman dan Saksi",
+    "title_en": "Book of Judgments and Witnesses",
+    "hadith_start": 1387,
+    "hadith_end": 1422,
+    "hadith_count": 36
+  },
+  {
+    "book_number": 15,
+    "title_ar": "كتاب العتق",
+    "title_ms": "Kitab Memerdekakan Hamba",
+    "title_en": "Book of Emancipation of Slaves",
+    "hadith_start": 1423,
+    "hadith_end": 1445,
+    "hadith_count": 23
+  },
+  {
+    "book_number": 16,
+    "title_ar": "كتاب الجامع",
+    "title_ms": "Kitab al-Jami' (Adab, Zuhd & Akhlak)",
+    "title_en": "The Comprehensive Book (Manners & Morals)",
+    "hadith_start": 1446,
+    "hadith_end": 1596,
+    "hadith_count": 151
+  }
+]
