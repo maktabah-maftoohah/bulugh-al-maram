@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/bulugh-al-maram/</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/" />
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/bulugh-al-maram/#1</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=1&amp;amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=1&amp;amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=1" />
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/bulugh-al-maram/#2</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=2&amp;amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=2&amp;amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=2" />
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/bulugh-al-maram/#3</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=3&amp;amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=3&amp;amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=3" />
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/bulugh-al-maram/#4</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=4&amp;amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=4&amp;amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=4" />
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://maktabah-maftoohah.github.io/bulugh-al-maram/#5</loc>
+    <xhtml:link rel="alternate" hreflang="ms" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=5&amp;amp;lang=ms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=5&amp;amp;lang=en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maktabah-maftoohah.github.io/bulugh-al-maram/?hadith=5" />
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

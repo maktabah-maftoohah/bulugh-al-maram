@@ -146,6 +146,22 @@
       "air-tenang",
       "mandi-janabah",
       "adab-kebersihan"
+    ],
+    "cross_references": [
+      {
+        "type": "hadith",
+        "repo": "sahih-muslim",
+        "hadith_number": 658,
+        "title": "Sahih Muslim #658",
+        "url": "https://maktabah-maftoohah.github.io/sahih-muslim/658"
+      },
+      {
+        "type": "hadith",
+        "repo": "sahih-al-bukhari",
+        "hadith_number": 239,
+        "title": "Sahih al-Bukhari #239",
+        "url": "https://maktabah-maftoohah.github.io/sahih-al-bukhari/239"
+      }
     ]
   },
   {
@@ -183,6 +199,15 @@
       "jilatan-anjing",
       "samak-najis-mughallazah",
       "bekas-makanan"
+    ],
+    "cross_references": [
+      {
+        "type": "hadith",
+        "repo": "sahih-muslim",
+        "hadith_number": 651,
+        "title": "Sahih Muslim #651",
+        "url": "https://maktabah-maftoohah.github.io/sahih-muslim/651"
+      }
     ]
   }
 ]
